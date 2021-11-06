@@ -1,2 +1,2 @@
-# thefullstackcouple.github.io
-Wedding Website for thefullstackcouple
+# Wedding Website
+A beautiful, feature rich, device friendly wedding website.  
