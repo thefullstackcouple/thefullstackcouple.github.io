@@ -266,6 +266,14 @@ Hero
     bottom: 100px;
     left: 50%;
   }*/
+  .mobile-quote {
+    color: white;
+    position: absolute;
+    left: 50%;
+    bottom: 90px;
+    transform: translate(-50%, 0);
+    white-space: nowrap;
+  }
   .down-arrow a {
     color: $txt-light;
   }
@@ -738,6 +746,7 @@ Embed video
 ========================================================================== */
 #video-bg {
   height: 300px;
+  background: url('../img/alwar.jpeg') center center;
 }
 #video-content {
   width: 100%;
